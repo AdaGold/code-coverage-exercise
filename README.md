@@ -6,7 +6,7 @@ You will need to clone this project and do your normal Python environment setup 
 
 To check the code coverage you can run:
 ```
-pytest --cov=student --cov-report html
+pytest --cov=student --cov-report html --cov-report term
 ```
 
 To see the detailed report (after running the above) you can open it in your default browser with:
