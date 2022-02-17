@@ -62,6 +62,17 @@ open htmlcov/index.html
 
 The above commands need to be run from the root folder of the project.
 
+*Running the commands in the terminal:*
+![Running the commands in the terminal](images/terminal.png)
+
 Once you've loaded the detailed report you can click on the file names to see information about what lines are missing code coverage.
+
+*The front page of the detailed report:*
+![Report Index](images/report-index.png)
+
+*The details for student/student.py:*
+![Report Index](images/report-details.png)
+
+The lines with coverage have a green line by their line number, the lines without coverage have a red one and a highlighted background.
 
 To read more about pytest-cov you can consult the [pytest-cov documentation](https://pytest-cov.readthedocs.io/en/latest/).
