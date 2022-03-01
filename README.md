@@ -3,9 +3,9 @@
 In this exercise you will work with your group to get to full code coverage and fix any bugs that you find.
 
 ## Setup
-1. In Github, click on the "Fork" button in github and fork the repository to your Github account. This will make a copy of the project in your github account.
+1. On [Github](https://github.com/AdaGold/code-coverage-exercise), click on the "Fork" button in the top right corner and fork the repository to your Github account. This will make a copy of the project in your Github account.
 
-2. In Github, add the other member(s) of your team as collaborators to the repository. Do this by a The student who forked the respository should first choosing Settings from the top menu bar, then Manage access from the left navigation, and finally Invite teams or people.
+2. On Github, add the other member(s) of your team as collaborators to _your fork_ of the repository. To do this the student who forked the repository should first choose "Settings" from the top menu bar (underneath the bar with the "Pin" button), then under the "Access" heading select "Collaborators", then under "Manage access" select "Add people".
 
 3. Clone a copy of this exercise. This command makes a new folder called `code-coverage-exercise`, and then puts the exercise into this new folder.
 
